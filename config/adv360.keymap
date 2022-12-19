@@ -53,7 +53,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans  &kp HOME  &kp END   &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                      &trans   &trans    &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans     &none    &none   &trans    &none    &none          &trans   &kp PAGE_DOWN   &kp PAGE_UP           &trans  &trans  &trans
-  &mo 1  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans    &trans   &trans   &trans   &trans   &trans          &trans           &mo 2
+  &mo 0  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans    &trans   &trans   &trans   &trans   &trans          &trans           &mo 2
             >;
         };
 
